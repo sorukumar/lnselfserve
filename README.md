@@ -1,6 +1,6 @@
-# PLED Dashboard Self-Serve Platform
+# LN Self-Serve Platform
 
-Self-service Lightning Network analytics platform built with Apache Superset.
+
 
 ## Components
 - Apache Superset (Visualization)
